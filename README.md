@@ -10,7 +10,7 @@ Lest ye think that I'm some kind of old-school-only nerd, all of those ReactJS/V
 - 😸 Ask me about my cats (you won't be sorry, I promise, here are some home movies...)
 - 😄 Pronouns: he/him
 - 📫 How to reach me: visit my [often-neglected tech blog](https://esoteknix.com) and use the contact form.
-- ⚡ Fun fact: how many web nerds have their own [TLD](https://en.wikipedia.org/wiki/Top-level_domain)?! Yup, I do. My legal name is Kenneth Kitchen but I go by Kenn. [Check it out!](https://kenn.kitchen)
+- ⚡ Fun fact: how many web nerds have their own [TLD](https://en.wikipedia.org/wiki/Top-level_domain)?! Yup, I do. My legal name is Kenneth Kitchen but I go by Kenn, and I own kenneth.kitchen and kenn.kitchen.
 
 <!--
 - ⚡ Fun fact: ...
