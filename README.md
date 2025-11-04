@@ -1,5 +1,5 @@
 # Kenn Kitchen
-I'm a full-stack LA/EMP expert, and a web nerd on pretty much every level. I like making websites (design and content), coding in PHP (but not JavaScript, sorry!), cloud architecture... all the browser-based things.
+I'm a full-stack LA/EMP expert, and a web nerd on pretty much every level. I like making websites (mostly just for myself these days!), coding in PHP, Python, and Go, cloud architecture and database design and Docker.
 
 When one says LAMP (Linux, Apache, MySQL/MariaDB, PHP) or LEMP (Linux, Nginx, MySQL/MariaDB, PHP) the fact that we're talking server-side/backend should be pretty obvious, but yeah, I'm about that part of it. But I don't just think that there are parts of it to love and parts just to make do with, I think all the parts are fun.
 
